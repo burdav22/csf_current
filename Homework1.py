@@ -20,40 +20,46 @@ print "IT LIVES!"
 
 print "Problem 1 solution follows:"
 
-b = -5.86 
--b + (math.sqrt((b**2)-(4*1*8.5408))) #x is equal to negative b plus...
-b/2 * 1 #All divided by 2a!
+b = (-5.86) 
+x= -b + (math.sqrt((b**2)-(4*1*8.5408))) #x is equal to negative b plus...
+x/2 * 1 #All divided by 2a!
 print "The first root is:"
-print b
+print x
 
 
-b = -5.86
--b - (math.sqrt((b**2)-(4*1*8.5408))) #x is equal to negative b 
-b/2
+b = (-5.86)
+x= -b - (math.sqrt((b**2)-(4*8.5408))) #x is equal to negative b 
+x/2
 print "The second root is:"
-print b
-
-
+print x
+print
+print "I'm not sure either of those answers are correct..."
+print
 ###
 ### Problem 2
 ###
 
 print "Problem 2 solution follows:"
 
-# ... write your code and comments here (and remove this line)
-
+import hw1_test
+print "A =",hw1_test.a
+print "B =", hw1_test.b
+print "C =", hw1_test.c
+print "D =", hw1_test.d
+print "E =", hw1_test.e
+print "F =", hw1_test.f
 
 ###
 ### Problem 3
 ###
-
+print
 print "Problem 3 solution follows:"
-
-# ... write your code and comments here (and remove this line)
+      
 
 
 ###
 ### Collaboration
 ###
 
-# ... List your collaborators here, as a comment (on a line starting with "#").
+# Jacob Morris
+# morjac05@evergreen.edu
