@@ -55,7 +55,7 @@ print "F =", hw1_test.f
 print
 print "Problem 3 solution follows:"
 print "I'm not entirely sure how to do this problem..."
-print "Here goes anyway.
+print "Here goes anyway."
 print ((hw1_test.a and hw1_test.b) or (not hw1_test.c) and not (hw1_test.c or hw1_test.e or hw1_test.f))
       
 
