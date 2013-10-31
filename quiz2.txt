@@ -6,5 +6,5 @@ if lab2.n == 50:
 if lab2.n < 50:
   print ('n is less than 50')
   
-    elif print ('n is greater than 50')
-    
+else: 
+    print ('n is greater than 50')
